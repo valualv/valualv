@@ -1,7 +1,8 @@
-Hi there! I am working on my last year as a PhD student at the University of Hawaiʻi at Mānoa
-I am currently searching for postdoctoral or entry-level private industry positions
-My experience is in genomics, bioinformatics, conservation, and invasive species
-I can be reached at: val64@hawaii.edu
+# Hi there! 
+- I am working on my last year as a PhD student at the University of Hawaiʻi at Mānoa
+- am currently searching for postdoctoral or entry-level private industry positions
+- My experience is in genomics, bioinformatics, conservation, and invasive species
+- I can be reached at: val64@hawaii.edu
 <!--
 **valualv/valualv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
